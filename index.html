@@ -1,0 +1,45 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Interview Form to PDF</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app-shell">
+    <section class="chat-card" aria-label="AI Interview Chat">
+      <header class="chat-header">
+        <div class="orb" aria-hidden="true"></div>
+        <div>
+          <h1>Interactive AI Interview</h1>
+          <p>Voice-first interview. Speak your answers and download your print-ready PDF.</p>
+        </div>
+        <div class="header-actions">
+          <button id="speakToggleBtn" class="voice-toggle secondary" type="button" aria-pressed="false">AI Voice Off</button>
+          <button id="startVoiceBtn" class="voice-toggle" type="button">Start Voice Interview</button>
+        </div>
+      </header>
+
+      <div id="chatWindow" class="chat-window" role="log" aria-live="polite"></div>
+
+      <section class="voice-panel" aria-label="Voice Mode">
+        <p id="voiceStatus">Status: Waiting to start voice interview.</p>
+        <p id="speechStatus">AI voice: Off. Turn it on manually when you want spoken prompts.</p>
+      </section>
+
+      <section id="summarySection" class="summary hidden" aria-label="Submission Summary">
+        <h2>Interview Complete</h2>
+        <p>Your responses are ready. Generate and download your PDF.</p>
+        <button id="downloadPdfBtn" type="button">Download PDF</button>
+      </section>
+    </section>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="app.js"></script>
+</body>
+</html>

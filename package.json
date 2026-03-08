@@ -1,0 +1,13 @@
+﻿{
+  "name": "capstone-ai-interview-assistant",
+  "version": "1.0.0",
+  "description": "Interactive Ollama-based interview assistant with optional browser speech and PDF export",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2"
+  }
+}
