@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1054" viewBox="0 0 1450 1054">
+  <defs>
+    <style>
+      .page { fill: #f8f6f2; }
+      .line { fill: none; stroke: #333; stroke-width: 2; }
+      .thin { fill: none; stroke: #666; stroke-width: 1; }
+      .title { font: 700 24px Arial, Helvetica, sans-serif; letter-spacing: 0.5px; fill: #222; }
+      .banner { font: 700 36px Arial, Helvetica, sans-serif; fill: #fff; text-anchor: middle; }
+      .serial { font: 700 30px "Courier New", monospace; fill: #111; }
+      .label { font: 700 11px Arial, Helvetica, sans-serif; fill: #333; }
+      .small { font: 400 10px Arial, Helvetica, sans-serif; fill: #444; }
+      .body { font: 700 14px Arial, Helvetica, sans-serif; fill: #222; }
+      .section { font: 700 16px Arial, Helvetica, sans-serif; fill: #222; }
+      .footer { font: 700 13px Arial, Helvetica, sans-serif; fill: #222; }
+      .watermark { fill: none; stroke: #c85d74; stroke-width: 2; opacity: 0.18; }
+    </style>
+  </defs>
+
+  <rect class="page" x="0" y="0" width="1450" height="1054" />
+  <rect class="line" x="15" y="15" width="1420" height="1024" />
+
+  <text class="body" x="20" y="40">BIR FORM 0016 (MARCH, 2000)</text>
+
+  <rect class="line" x="15" y="55" width="610" height="82" />
+  <text class="title" x="35" y="102">COMMUNITY TAX CERTIFICATE</text>
+
+  <rect x="625" y="55" width="290" height="82" fill="#222" />
+  <text class="banner" x="770" y="103">INDIVIDUAL</text>
+
+  <rect class="line" x="915" y="55" width="520" height="82" />
+  <text class="serial" x="940" y="104">CCT2002 23327052</text>
+
+  <line class="line" x1="15" y1="137" x2="1435" y2="137" />
+  <line class="line" x1="110" y1="137" x2="110" y2="200" />
+  <line class="line" x1="625" y1="137" x2="625" y2="200" />
+  <line class="line" x1="900" y1="137" x2="900" y2="200" />
+  <line class="line" x1="15" y1="200" x2="1435" y2="200" />
+
+  <text class="label" x="58" y="159">YEAR</text>
+  <text class="label" x="300" y="159">PLACE OF ISSUE (City / Mun. / Prov.)</text>
+  <text class="label" x="695" y="159">DATE ISSUED</text>
+  <text class="section" x="1110" y="188">TAXPAYER'S COPY</text>
+
+  <line class="thin" x1="680" y1="193" x2="730" y2="193" />
+  <line class="thin" x1="735" y1="193" x2="785" y2="193" />
+  <line class="thin" x1="790" y1="193" x2="840" y2="193" />
+
+  <line class="line" x1="400" y1="200" x2="400" y2="252" />
+  <line class="line" x1="700" y1="200" x2="700" y2="252" />
+  <line class="line" x1="900" y1="200" x2="900" y2="252" />
+  <line class="line" x1="1020" y1="200" x2="1020" y2="252" />
+  <line class="line" x1="1155" y1="200" x2="1155" y2="252" />
+  <line class="line" x1="1300" y1="200" x2="1300" y2="252" />
+  <line class="line" x1="15" y1="252" x2="1435" y2="252" />
+
+  <text class="label" x="28" y="222">NAME (SURNAME)</text>
+  <text class="label" x="417" y="222">(FIRST)</text>
+  <text class="label" x="713" y="222">(MIDDLE)</text>
+  <text class="label" x="945" y="222">TIN (if Any):</text>
+  <rect class="thin" x="1042" y="212" width="109" height="36" />
+  <line class="thin" x1="1078" y1="212" x2="1078" y2="248" />
+  <line class="thin" x1="1114" y1="212" x2="1114" y2="248" />
+  <rect class="thin" x="1188" y="212" width="109" height="36" />
+  <line class="thin" x1="1224" y1="212" x2="1224" y2="248" />
+  <line class="thin" x1="1260" y1="212" x2="1260" y2="248" />
+  <rect class="thin" x="1333" y="212" width="109" height="36" />
+  <line class="thin" x1="1369" y1="212" x2="1369" y2="248" />
+  <line class="thin" x1="1405" y1="212" x2="1405" y2="248" />
+
+  <line class="line" x1="900" y1="252" x2="900" y2="305" />
+  <line class="line" x1="1065" y1="252" x2="1065" y2="305" />
+  <line class="line" x1="1200" y1="252" x2="1200" y2="305" />
+  <line class="line" x1="15" y1="305" x2="1435" y2="305" />
+
+  <text class="section" x="28" y="275">ADDRESS</text>
+  <text class="section" x="965" y="278">SEX:</text>
+  <rect class="thin" x="1066" y="259" width="34" height="20" />
+  <rect class="thin" x="1066" y="281" width="34" height="20" />
+  <text class="section" x="1135" y="278">MALE</text>
+  <text class="section" x="1135" y="300">FEMALE</text>
+
+  <line class="line" x1="310" y1="305" x2="310" y2="364" />
+  <line class="line" x1="650" y1="305" x2="650" y2="364" />
+  <line class="line" x1="1200" y1="305" x2="1200" y2="364" />
+  <line class="line" x1="15" y1="364" x2="1435" y2="364" />
+
+  <text class="section" x="28" y="329">CITIZENSHIP</text>
+  <text class="section" x="325" y="329">ICR NO. (If an Alien)</text>
+  <text class="section" x="665" y="329">PLACE OF BIRTH</text>
+  <text class="section" x="1210" y="329">HEIGHT</text>
+
+  <line class="line" x1="900" y1="364" x2="900" y2="426" />
+  <line class="line" x1="1200" y1="364" x2="1200" y2="426" />
+  <line class="line" x1="15" y1="426" x2="1435" y2="426" />
+  <line class="line" x1="160" y1="364" x2="160" y2="426" />
+  <line class="line" x1="390" y1="364" x2="390" y2="426" />
+  <line class="thin" x1="238" y1="378" x2="238" y2="419" />
+  <line class="thin" x1="445" y1="378" x2="445" y2="419" />
+  <rect class="thin" x="185" y="378" width="44" height="17" />
+  <rect class="thin" x="185" y="402" width="44" height="17" />
+  <rect class="thin" x="392" y="378" width="44" height="17" />
+  <rect class="thin" x="392" y="402" width="44" height="17" />
+
+  <text class="section" x="42" y="390">CIVIL</text>
+  <text class="section" x="42" y="412">STATUS</text>
+  <text class="section" x="250" y="392">Single</text>
+  <text class="section" x="250" y="416">Married</text>
+  <text class="section" x="458" y="392">Widow / Widower / Legally Separated</text>
+  <text class="section" x="458" y="416">Divorced</text>
+  <text class="section" x="955" y="392">DATE OF BIRTH</text>
+  <text class="section" x="1210" y="392">WEIGHT</text>
+
+  <line class="line" x1="900" y1="426" x2="900" y2="478" />
+  <line class="line" x1="1200" y1="426" x2="1200" y2="478" />
+  <line class="line" x1="15" y1="478" x2="1435" y2="478" />
+
+  <text class="section" x="28" y="449">PROFESSION / OCCUPATION / BUSINESS</text>
+  <text class="section" x="1015" y="450">TAXABLE</text>
+  <text class="section" x="1032" y="470">AMOUNT</text>
+  <text class="section" x="1280" y="450">COMMUNITY</text>
+  <text class="section" x="1305" y="470">TAX DUE</text>
+
+  <line class="line" x1="15" y1="532" x2="1435" y2="532" />
+  <text class="title" x="30" y="518">A. BASIC COMMUNITY TAX (P5.00) Voluntary or Exempted (P1.00)</text>
+  <text class="title" x="30" y="573">B. ADDITIONAL COMMUNITY TAX (tax not to exceed P5,000.00)</text>
+
+  <line class="line" x1="15" y1="584" x2="1435" y2="584" />
+  <line class="line" x1="15" y1="676" x2="1435" y2="676" />
+  <line class="line" x1="15" y1="748" x2="1435" y2="748" />
+  <line class="line" x1="15" y1="822" x2="1435" y2="822" />
+  <line class="line" x1="900" y1="478" x2="900" y2="1039" />
+  <line class="line" x1="1200" y1="478" x2="1200" y2="1039" />
+  <line class="line" x1="1300" y1="478" x2="1300" y2="1039" />
+
+  <text class="body" x="60" y="622">1. GROSS RECEIPTS OR EARNINGS DERIVED FROM BUSINESS DURING THE</text>
+  <text class="body" x="90" y="646">PRECEDING YEAR (P1.00 for every P1,000.00)</text>
+  <text class="body" x="60" y="705">2. SALARIES OR GROSS RECEIPT OR EARNINGS DERIVED FROM EXERCISE OF</text>
+  <text class="body" x="90" y="729">PROFESSION OR PURSUIT OF ANY OCCUPATION (P1.00 for every P1,000.)</text>
+  <text class="body" x="60" y="788">3. INCOME FROM REAL PROPERTY (P1.00 for every P1,000.)</text>
+
+  <line class="line" x1="15" y1="1039" x2="1435" y2="1039" />
+  <line class="line" x1="290" y1="822" x2="290" y2="1039" />
+
+  <text class="title" x="80" y="878">Right Thumb</text>
+  <text class="title" x="108" y="917">Print</text>
+  <text class="footer" x="305" y="846">TAXPAYER'S SIGNATURE</text>
+
+  <text class="section" x="1040" y="808">TOTAL</text>
+  <text class="title" x="1215" y="808">P</text>
+  <text class="section" x="1025" y="875">INTEREST</text>
+  <text class="section" x="1010" y="946">TOTAL</text>
+  <text class="section" x="970" y="972">AMOUNT PAID</text>
+  <text class="title" x="1215" y="972">P</text>
+  <text class="footer" x="928" y="1009">(In words):</text>
+
+  <text class="serial" x="380" y="1005" fill="#4757b7" opacity="0.9">ADORACION T. CAPARROS</text>
+  <text class="footer" x="505" y="1026">MUNICIPAL / CITY TREASURER</text>
+  <text class="body" x="18" y="1049">QDP-11-04-2002</text>
+
+  <circle class="watermark" cx="760" cy="590" r="190" />
+  <circle class="watermark" cx="760" cy="590" r="230" />
+  <circle class="watermark" cx="760" cy="590" r="270" />
+</svg>

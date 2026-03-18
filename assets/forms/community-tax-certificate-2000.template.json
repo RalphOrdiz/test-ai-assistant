@@ -1,0 +1,134 @@
+{
+  "name": "community-tax-certificate-2000",
+  "title": "Community Tax Certificate 0016 (March 2000)",
+  "page": {
+    "width": 1450,
+    "height": 1054
+  },
+  "background": "/assets/forms/community-tax-certificate-2000.svg",
+  "fields": {
+    "surname": {
+      "type": "text",
+      "x": 30,
+      "y": 225,
+      "w": 365,
+      "h": 24,
+      "fontSize": 19,
+      "uppercase": false
+    },
+    "firstName": {
+      "type": "text",
+      "x": 410,
+      "y": 225,
+      "w": 285,
+      "h": 24,
+      "fontSize": 19,
+      "uppercase": false
+    },
+    "middleName": {
+      "type": "text",
+      "x": 710,
+      "y": 225,
+      "w": 185,
+      "h": 24,
+      "fontSize": 17,
+      "uppercase": false
+    },
+    "address": {
+      "type": "text",
+      "x": 30,
+      "y": 273,
+      "w": 860,
+      "h": 24,
+      "fontSize": 16,
+      "uppercase": false
+    },
+    "citizenship": {
+      "type": "text",
+      "x": 30,
+      "y": 334,
+      "w": 280,
+      "h": 22,
+      "fontSize": 16,
+      "uppercase": false
+    },
+    "placeOfBirth": {
+      "type": "text",
+      "x": 665,
+      "y": 334,
+      "w": 520,
+      "h": 22,
+      "fontSize": 16,
+      "uppercase": false
+    },
+    "height": {
+      "type": "text",
+      "x": 1210,
+      "y": 334,
+      "w": 195,
+      "h": 22,
+      "fontSize": 15,
+      "uppercase": false
+    },
+    "dateOfBirth": {
+      "type": "text",
+      "x": 965,
+      "y": 393,
+      "w": 220,
+      "h": 22,
+      "fontSize": 15,
+      "uppercase": false
+    },
+    "weight": {
+      "type": "text",
+      "x": 1210,
+      "y": 393,
+      "w": 195,
+      "h": 22,
+      "fontSize": 15,
+      "uppercase": false
+    },
+    "profession": {
+      "type": "text",
+      "x": 30,
+      "y": 449,
+      "w": 860,
+      "h": 24,
+      "fontSize": 16,
+      "uppercase": false
+    },
+    "tinNumber": {
+      "type": "boxes",
+      "sanitize": "digits",
+      "fontSize": 18,
+      "cells": [
+        { "x": 1044, "y": 213, "w": 35, "h": 34 },
+        { "x": 1080, "y": 213, "w": 35, "h": 34 },
+        { "x": 1116, "y": 213, "w": 35, "h": 34 },
+        { "x": 1189, "y": 213, "w": 35, "h": 34 },
+        { "x": 1225, "y": 213, "w": 35, "h": 34 },
+        { "x": 1261, "y": 213, "w": 35, "h": 34 },
+        { "x": 1334, "y": 213, "w": 35, "h": 34 },
+        { "x": 1370, "y": 213, "w": 35, "h": 34 },
+        { "x": 1406, "y": 213, "w": 35, "h": 34 }
+      ]
+    },
+    "sex": {
+      "type": "choice",
+      "options": {
+        "Male": { "box": { "x": 1066, "y": 259, "w": 34, "h": 20 }, "size": 15, "mark": "X" },
+        "Female": { "box": { "x": 1066, "y": 281, "w": 34, "h": 20 }, "size": 15, "mark": "X" }
+      }
+    },
+    "civilStatus": {
+      "type": "choice",
+      "options": {
+        "Single": { "box": { "x": 185, "y": 378, "w": 44, "h": 17 }, "size": 14, "mark": "X" },
+        "Married": { "box": { "x": 185, "y": 402, "w": 44, "h": 17 }, "size": 14, "mark": "X" },
+        "Widowed": { "box": { "x": 392, "y": 378, "w": 44, "h": 17 }, "size": 14, "mark": "X" },
+        "Legally Separated": { "box": { "x": 392, "y": 378, "w": 44, "h": 17 }, "size": 14, "mark": "X" },
+        "Divorced": { "box": { "x": 392, "y": 402, "w": 44, "h": 17 }, "size": 14, "mark": "X" }
+      }
+    }
+  }
+}
